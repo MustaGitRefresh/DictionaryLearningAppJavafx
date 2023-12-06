@@ -1,0 +1,2 @@
+# DictionaryLearningAppJavafx
+The school project.
